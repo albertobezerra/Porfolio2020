@@ -581,7 +581,7 @@ body {
 }
 
 .project-2 {
-    background: url('../img/portfolio/2.jpg') no-repeat;
+    background: url('../img/portfolio/codeficando.jpg') no-repeat;
 }
 
 .project-3 {
@@ -1132,6 +1132,11 @@ p.author-text {
 
 .project-detail-guardacorpo {
     background: url('../img/portfolio/guardacorpo.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.project-detail-codeficando {
+    background: url('../img/portfolio/codeficando.jpg') center center no-repeat;
     background-size: cover;
 }
 
