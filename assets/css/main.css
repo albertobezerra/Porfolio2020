@@ -585,7 +585,7 @@ body {
 }
 
 .project-3 {
-    background: url('../img/portfolio/3.jpg') no-repeat;
+    background: url('../img/portfolio/docurascomdoces.jpg') no-repeat;
 }
 
 .project-4 {
@@ -1129,6 +1129,11 @@ p.author-text {
 /**************************************
  * 06.Single Project Page Style
  *************************************/
+
+ .project-detail-docurascomdoces {
+    background: url('../img/portfolio/docurascomdoces.jpg') center center no-repeat;
+    background-size: cover;
+}
 
 .project-detail-guardacorpo {
     background: url('../img/portfolio/guardacorpo.jpg') center center no-repeat;
