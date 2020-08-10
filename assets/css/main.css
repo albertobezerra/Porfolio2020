@@ -589,7 +589,7 @@ body {
 }
 
 .project-4 {
-    background: url('../img/portfolio/4.jpg') no-repeat;
+    background: url('../img/portfolio/muda1.jpg') no-repeat;
 }
 
 .project-5 {
@@ -1142,6 +1142,11 @@ p.author-text {
 
 .project-detail-codeficando {
     background: url('../img/portfolio/codeficando.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.project-detail-muda {
+    background: url('../img/portfolio/muda1.jpg') center center no-repeat;
     background-size: cover;
 }
 
