@@ -593,7 +593,7 @@ body {
 }
 
 .project-5 {
-    background: url('../img/portfolio/5.jpg') no-repeat;
+    background: url('../img/portfolio/pizzaria.jpg') no-repeat;
 }
 
 .overlay-bg {
@@ -1147,6 +1147,11 @@ p.author-text {
 
 .project-detail-muda {
     background: url('../img/portfolio/muda1.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.project-detail-pizzariarodrigues {
+    background: url('../img/portfolio/pizzaria.jpg') center center no-repeat;
     background-size: cover;
 }
 
